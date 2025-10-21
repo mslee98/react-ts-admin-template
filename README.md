@@ -2,7 +2,7 @@
 
 React + TypeScript + Tailwind CSS로 구축된 스포츠 커뮤니티 관리자 대시보드 템플릿입니다.
 
-![Dashboard Preview](./docs/sample.png)
+![Dashboard Preview](./sample.png)
 
 ## 주요 특징
 
